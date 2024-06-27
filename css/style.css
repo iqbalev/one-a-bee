@@ -54,6 +54,11 @@ header {
   padding: 5px 30px;
 }
 
+.login:hover,
+.register:hover {
+  text-decoration: underline;
+}
+
 /* Main Styling */
 main {
   display: flex;
